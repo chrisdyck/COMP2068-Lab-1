@@ -26,5 +26,5 @@ For more information go to https://www.w3schools.com/nodejs/nodejs_http.asp
 * Are ther alternatives to NodeJS?
 
 ## Question 10
-![GitHub Terminal Screenshot](/images/terminalnodejsversion.png)
+![GitHub Terminal Screenshot](./images/terminalnodejsversion.PNG)
 
