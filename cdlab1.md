@@ -1,1 +1,2 @@
-# Setup Lab 2 on github.com
+# Setup Lab 2 on github.com Chris Dyck
+
