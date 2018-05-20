@@ -14,6 +14,6 @@ var food = fs.readFile('food.txt', 'utf8', function(err, food){
 ```
 
 ## 1. Question 5
-'let' replaces what is the new JavaScript?
+'let' replaces ____ is the new JavaScript?
 
 ** ANSWER: **  var
