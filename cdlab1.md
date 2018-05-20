@@ -1,6 +1,6 @@
 # Lab 1 - Chris Dyck
 
-## 1. Question 4
+## Question 4
 ```js
 
 var food = fs.readFile('food.txt', 'utf8', function(err, food){
@@ -13,7 +13,7 @@ var food = fs.readFile('food.txt', 'utf8', function(err, food){
 
 ```
 
-## 1. Question 5
+## Question 5
 require('http') is used to include the ________ ?
 
 ## ** ANSWER: **  http module
