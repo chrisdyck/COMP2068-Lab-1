@@ -1,1 +1,1 @@
-#Setup Lab 2 on githu.com
+# Setup Lab 2 on github.com
